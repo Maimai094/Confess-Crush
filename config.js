@@ -1,17 +1,17 @@
 const CONFIG = {
-    titleWeb: "",
+    titleWeb: "IT'S ME",
     introTitle: 'HELLO!!',
     introDesc: `WELCOME`,
     btnIntro:':>>',
     title: 'M CÓ GHÉT T KHÔNG',
-    desc: '',
+    desc: ':)))',
     btnYes: 'CÓ ',
     btnNo: 'KHÔNG NHA',
     question: 'WHY?',
     btnReply: '??',
-    reply: '',
+    reply: '___',
     mess: 'OKAYY',
     messDesc: 'BAIII',
-    btnAccept: '',
+    btnAccept: '___',
     messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
