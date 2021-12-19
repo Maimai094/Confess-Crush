@@ -1,7 +1,7 @@
 const CONFIG = {
     titleWeb: "IT'S ME",
     introTitle: 'HELLO!!',
-    introDesc: `WELCOME`,
+    introDesc: 'COME ON',
     btnIntro:':>>',
     title: 'M CÓ GHÉT T KHÔNG',
     desc: ':)))',
